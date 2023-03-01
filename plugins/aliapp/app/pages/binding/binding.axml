@@ -1,0 +1,1 @@
+<app-layout vue-id="1" onVueInit="__l"><app-phone-binding vue-id="{{('2')+','+('1')}}" bind="{{bind}}" phone="{{phone}}" data-event-opts="{{[['^click',[['bindPhone']]]]}}" onClick="__e" onVueInit="__l"></app-phone-binding></app-layout>

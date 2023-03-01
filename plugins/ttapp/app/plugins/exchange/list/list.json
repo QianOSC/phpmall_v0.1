@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "礼品卡中心",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-image": "/components/basic-component/app-image/app-image",
+    "app-tab-nav": "/components/basic-component/app-tab-nav/app-tab-nav",
+    "app-product-list": "/components/page-component/app-product-list/app-product-list",
+    "app-price": "/components/page-component/goods/app-price",
+    "app-no-goods": "/components/page-component/app-no-goods/app-no-goods",
+    "app-member-price": "/components/page-component/app-member-mark/app-member-price",
+    "app-sup-vip": "/components/page-component/app-sup-vip/app-sup-vip",
+    "u-mask": "/components/basic-component/u-mask/u-mask"
+  }
+}

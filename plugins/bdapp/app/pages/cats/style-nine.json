@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "app-jump-button": "/components/basic-component/app-jump-button/app-jump-button",
+    "app-category-list": "/components/page-component/app-category-list/app-category-list",
+    "product-list": "/pages/cats/product-list",
+    "app-no-goods": "/components/page-component/app-no-goods/app-no-goods",
+    "goods-list": "/pages/cats/goods-list"
+  }
+}

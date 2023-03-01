@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "股东分红",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-index": "/plugins/stock/components/app-index/app-index",
+    "app-rich-text": "/components/basic-component/app-rich/parse",
+    "app-condition": "/plugins/stock/components/app-condition/app-condition"
+  }
+}

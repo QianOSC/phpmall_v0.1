@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-popup": "/components/basic-component/u-popup/u-popup",
+    "app-price": "/components/page-component/goods/app-price",
+    "app-member-mark": "/components/page-component/app-member-mark/app-member-mark"
+  },
+  "component": true
+}

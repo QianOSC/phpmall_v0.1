@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "商品图文描述",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

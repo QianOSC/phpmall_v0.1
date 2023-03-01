@@ -1,0 +1,10 @@
+{
+  "defaultTitle": "购买详情",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-form-id": "/components/basic-component/app-form-id/app-form-id",
+    "app-banner": "/components/page-component/goods/app-goods-banner",
+    "app-share-qr-code": "/components/page-component/app-share-qr-code-poster/app-share-qr-code-poster",
+    "bd-detail": "/components/page-component/goods/bd-detail"
+  }
+}

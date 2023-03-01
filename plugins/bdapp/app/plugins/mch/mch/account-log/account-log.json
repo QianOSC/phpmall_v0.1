@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "交易记录",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

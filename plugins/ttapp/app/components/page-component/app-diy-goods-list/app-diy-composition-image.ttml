@@ -1,0 +1,1 @@
+<view class="app-diy-composition-image data-v-35b064d2"><view class="{{(('goods-one dir-left-wrap data-v-35b064d2')+' '+imageClass)}}"><block tt:for="{{imageList}}" tt:for-item="item" tt:for-index="key" tt:key="key"><block class="data-v-35b064d2"><image mode="{{mode}}" src="{{item}}" class="data-v-35b064d2"></image></block></block></view></view>

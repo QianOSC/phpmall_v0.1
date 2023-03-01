@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-clerk-historys": "/components/page-component/app-clerk-historys/app-clerk-historys",
+    "app-form-data": "/components/basic-component/app-order/app-form-data"
+  }
+}

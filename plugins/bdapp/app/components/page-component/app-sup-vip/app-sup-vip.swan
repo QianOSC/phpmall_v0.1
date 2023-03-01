@@ -1,0 +1,1 @@
+<block s-if="{{is_show}}"><view class="vip-price dir-left-nowrap data-v-f493e5c8" style="{{'margin:'+(''+margin)+';'}}"><view class="item vip-left data-v-f493e5c8"><image class="vip-icon data-v-f493e5c8" src="/static/image/icon/S-VIP.png"></image></view><view class="item vip-right data-v-f493e5c8">{{discount==0?'免费':discount+'折'}}</view></view></block>

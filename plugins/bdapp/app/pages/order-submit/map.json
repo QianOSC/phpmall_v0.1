@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "配送范围",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

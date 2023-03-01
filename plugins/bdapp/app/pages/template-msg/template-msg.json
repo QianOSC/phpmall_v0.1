@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "模板消息测试",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-jump-button": "/components/basic-component/app-jump-button/app-jump-button"
+  }
+}

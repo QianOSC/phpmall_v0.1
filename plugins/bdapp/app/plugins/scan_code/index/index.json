@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "当面付",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-button": "/components/basic-component/app-button/app-button"
+  }
+}

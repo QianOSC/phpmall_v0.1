@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "活动数据",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

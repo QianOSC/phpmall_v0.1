@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "利润提现",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-menu": "/plugins/community/components/app-menu"
+  }
+}

@@ -1,0 +1,1 @@
+<app-layout vue-id="1" class="data-v-1ca5f404" bind:__l="__l" vue-slots="{{['default']}}"><view class="dir-top-nowrap cross-center box data-v-1ca5f404"><image class="disabled_img data-v-1ca5f404" src="{{picUrl}}"></image><text class="title data-v-1ca5f404">{{text}}</text><text class="content data-v-1ca5f404">请联系管理员</text></view></app-layout>

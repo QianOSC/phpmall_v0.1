@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "用户管理",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

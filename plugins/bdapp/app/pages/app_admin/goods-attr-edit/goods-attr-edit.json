@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "规格值编辑",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

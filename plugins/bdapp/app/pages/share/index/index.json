@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "u-ordinary-list": "/components/page-component/u-goods-list/u-ordinary-list"
+  }
+}

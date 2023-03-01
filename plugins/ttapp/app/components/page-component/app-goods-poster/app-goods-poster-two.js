@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/page-component/app-goods-poster/app-goods-poster-two"],{"0737":function(t,o,n){"use strict";n.r(o);var e=n("e2ff"),r=n("11fb");for(var a in r)"default"!==a&&function(t){n.d(o,t,function(){return r[t]})}(a);n("d4a5");var p=n("2877"),u=Object(p["a"])(r["default"],e["a"],e["b"],!1,null,"2782435d",null);o["default"]=u.exports},"11fb":function(t,o,n){"use strict";n.r(o);var e=n("17fc"),r=n.n(e);for(var a in e)"default"!==a&&function(t){n.d(o,t,function(){return e[t]})}(a);o["default"]=r.a},"17fc":function(t,o,n){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.default=void 0;var e=function(){return n.e("components/page-component/app-goods-poster/app-poster-image").then(n.bind(null,"446e"))},r=function(){return n.e("components/page-component/app-goods-poster/app-poster-price").then(n.bind(null,"b30d"))},a={name:"app-goods-poster-two",components:{appPosterImage:e,appPosterPrice:r},props:{iconPlugin:Object,multiple:Number,info:Object,form:Object},computed:{background:function(){if(2===parseInt(this.form.type)){var t=this.form.color,o=this.$utils.colorRgba(this.form.color,.5);return"linear-gradient("+t+","+o+")"}return this.form.color}}};o.default=a},d4a5:function(t,o,n){"use strict";var e=n("d83d"),r=n.n(e);r.a},d83d:function(t,o,n){},e2ff:function(t,o,n){"use strict";var e=function(){var t=this,o=t.$createElement;t._self._c},r=[];n.d(o,"a",function(){return e}),n.d(o,"b",function(){return r})}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/page-component/app-goods-poster/app-goods-poster-two-create-component',
+    {
+        'components/page-component/app-goods-poster/app-goods-poster-two-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('f266')['createComponent'](__webpack_require__("0737"))
+        })
+    },
+    [['components/page-component/app-goods-poster/app-goods-poster-two-create-component']]
+]);                

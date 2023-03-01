@@ -1,0 +1,1 @@
+<app-layout vue-id="1" vue-slots="{{['default']}}"><view><app-card-detail vue-id="{{('2')+','+('1')}}" list="{{list}}"></app-card-detail></view></app-layout>

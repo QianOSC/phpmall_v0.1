@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "秒杀首页",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "product-list": "/plugins/miaosha/components/app-product-list"
+  }
+}

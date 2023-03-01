@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "分销商申请",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-diy-form": "/components/page-component/app-diy-form/app-diy-form"
+  }
+}

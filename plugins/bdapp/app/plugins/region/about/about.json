@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "代理升级说明",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

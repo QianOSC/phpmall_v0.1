@@ -1,0 +1,1 @@
+<app-layout vue-id="1" class="data-v-42833fb2" bind:__l="__l" vue-slots="{{['default']}}"><block tt:if="{{list}}"><view class="data-v-42833fb2"><app-details vue-id="{{('2')+','+('1')}}" detail-list="{{list}}" is-show-share="{{true}}" type="{{type}}" class="data-v-42833fb2" bind:__l="__l"></app-details></view></block></app-layout>

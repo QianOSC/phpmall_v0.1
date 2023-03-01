@@ -1,0 +1,1 @@
+<block a:if="{{actual.price!=-1}}"><view class="{{(('app-price t-omit data-v-61ddb784')+' '+(sign!=='gift'?theme+'-m-text '+theme:userTheme+'-color '+userTheme))}}">{{''+(sign==='integral_mall'&&actual.price!==''?'+':'')}}<text class="{{(('data-v-61ddb784')+' '+actual.type)}}">{{actual.price}}</text></view></block>

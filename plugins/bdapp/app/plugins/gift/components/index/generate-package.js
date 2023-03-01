@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["plugins/gift/components/index/generate-package"],{1432:function(t,e,a){"use strict";var n=function(){var t=this,e=t.$createElement;t._self._c},r=[];a.d(e,"a",function(){return n}),a.d(e,"b",function(){return r})},"1a5a":function(t,e,a){"use strict";var n=a("8e1a"),r=a.n(n);r.a},"20da":function(t,e,a){"use strict";a.r(e);var n=a("b25c"),r=a.n(n);for(var i in n)"default"!==i&&function(t){a.d(e,t,function(){return n[t]})}(i);e["default"]=r.a},8158:function(t,e,a){"use strict";a.r(e);var n=a("1432"),r=a("20da");for(var i in r)"default"!==i&&function(t){a.d(e,t,function(){return r[t]})}(i);a("1a5a");var c=a("2877"),o=Object(c["a"])(r["default"],n["a"],n["b"],!1,null,"716d6b37",null);e["default"]=o.exports},"8e1a":function(t,e,a){},b25c:function(t,e,a){"use strict";(function(t){Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var n=a("8de3"),r={name:"generate-package",props:{theme:String,totalPrice:String,template_message_captain:Array},computed:{newPrice:function(){return 0===Number(this.totalPrice)?"0.00":this.totalPrice}},methods:{generatePackage:function(e){var a=this;(0,n.push)(e.detail.formId),this.$storage.getStorageSync("GIFT_CART"),this.$storage.getStorageSync("GIFT_CART")&&Array.isArray(this.$storage.getStorageSync("GIFT_CART"))&&this.$storage.getStorageSync("GIFT_CART").length>0?this.$subscribe(this.template_message_captain).then(function(t){a.$emit("click")}).catch(function(t){a.$emit("click")}):t.showToast({mask:!0,title:"请选择礼物",icon:"none"})}}};e.default=r}).call(this,a("5486")["default"])}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'plugins/gift/components/index/generate-package-create-component',
+    {
+        'plugins/gift/components/index/generate-package-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('5486')['createComponent'](__webpack_require__("8158"))
+        })
+    },
+    [['plugins/gift/components/index/generate-package-create-component']]
+]);                

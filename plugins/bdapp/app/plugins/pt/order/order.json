@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的拼团",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-nav": "/plugins/pt/components/app-nav",
+    "app-order-list": "/plugins/pt/components/app-order-list"
+  }
+}

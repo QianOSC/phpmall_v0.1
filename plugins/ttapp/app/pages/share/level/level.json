@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "升级条件",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

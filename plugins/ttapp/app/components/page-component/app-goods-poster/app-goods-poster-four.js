@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/page-component/app-goods-poster/app-goods-poster-four"],{"17ca":function(t,o,e){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.default=void 0;var n=function(){return e.e("components/page-component/app-goods-poster/app-poster-image").then(e.bind(null,"446e"))},r=function(){return e.e("components/page-component/app-goods-poster/app-poster-price").then(e.bind(null,"b30d"))},u={name:"app-goods-poster-four",components:{appPosterImage:n,appPosterPrice:r},props:{iconPlugin:Object,multiple:Number,info:Object,form:Object},computed:{customize:function(){return this.info.customize_text?this.info.customize_text:"向您推荐一个好物"},background:function(){if(2===parseInt(this.form.type)){var t=this.form.color,o=this.$utils.colorRgba(this.form.color,.5);return"linear-gradient("+t+","+o+")"}return this.form.color}}};o.default=u},"1e42":function(t,o,e){"use strict";e.r(o);var n=e("17ca"),r=e.n(n);for(var u in n)"default"!==u&&function(t){e.d(o,t,function(){return n[t]})}(u);o["default"]=r.a},2278:function(t,o,e){"use strict";e.r(o);var n=e("b991"),r=e("1e42");for(var u in r)"default"!==u&&function(t){e.d(o,t,function(){return r[t]})}(u);e("fb41");var c=e("2877"),a=Object(c["a"])(r["default"],n["a"],n["b"],!1,null,"436aea12",null);o["default"]=a.exports},"93dc":function(t,o,e){},b991:function(t,o,e){"use strict";var n=function(){var t=this,o=t.$createElement;t._self._c},r=[];e.d(o,"a",function(){return n}),e.d(o,"b",function(){return r})},fb41:function(t,o,e){"use strict";var n=e("93dc"),r=e.n(n);r.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/page-component/app-goods-poster/app-goods-poster-four-create-component',
+    {
+        'components/page-component/app-goods-poster/app-goods-poster-four-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('f266')['createComponent'](__webpack_require__("2278"))
+        })
+    },
+    [['components/page-component/app-goods-poster/app-goods-poster-four-create-component']]
+]);                

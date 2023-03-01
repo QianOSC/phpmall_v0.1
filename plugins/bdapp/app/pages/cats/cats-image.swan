@@ -1,0 +1,1 @@
+<image hidden="{{!(is_loading)}}" class="{{['cats data-v-779c2be4',theme+'-m-back '+theme]}}" src="./image/cats.png" data-event-opts="{{[['load',[['imgLoad',['$event']]]]]}}" bindload="__e"></image>

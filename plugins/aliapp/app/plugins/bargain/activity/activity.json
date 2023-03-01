@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "砍价",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

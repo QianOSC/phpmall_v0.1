@@ -1,0 +1,68 @@
+
+.bd-comments.data-v-e31e7614 {
+    width: 702rpx;
+    margin: 24rpx 24rpx 0 24rpx;
+    background-color: #ffffff;
+    border-radius: 15rpx;
+}
+.bd-nothing.data-v-e31e7614 {
+    padding: 20rpx;
+    font-size: 26rpx;
+    color: #353535;
+}
+.bd-top.data-v-e31e7614 {
+    height: 90rpx;
+    border-bottom: 1rpx solid #eeeeee;
+    padding: 0 20rpx;
+}
+.bd-icon.data-v-e31e7614 {
+    width: 12rpx;
+    height: 22rpx;
+    margin-left: 15rpx;
+}
+.bd-name.data-v-e31e7614 {
+    font-size: 26rpx;
+    color: #999999;
+}
+.bd-more.data-v-e31e7614 {
+    font-size: 22rpx;
+    color: #999999;
+}
+.bd-bottom.data-v-e31e7614 {
+    padding: 20rpx;
+}
+.bd-title.data-v-e31e7614 {
+    margin-top: 8rpx;
+    margin-bottom: 22rpx;
+}
+.bd-avatar.data-v-e31e7614 {
+    width: 56rpx;
+    height: 56rpx;
+    border-radius: 50%;
+}
+.bd-nickname.data-v-e31e7614 {
+    font-size: 26rpx;
+    color: #999999;
+    margin-left: 26rpx;
+}
+.bd-attr-name.data-v-e31e7614 {
+    font-size: 24rpx;
+    color: #999999;
+    line-height: 34rpx;
+    margin-bottom: 14rpx;
+}
+.bd-content.data-v-e31e7614 {
+    font-size: 26rpx;
+    line-height: 36rpx;
+    color: #353535;
+}
+.pic-list.data-v-e31e7614 {
+    margin-top: 20rpx;
+}
+.bd-pic.data-v-e31e7614 {
+    width: 210rpx;
+    height: 210rpx;
+    margin-right: 10rpx;
+    margin-bottom: 10rpx;
+}
+

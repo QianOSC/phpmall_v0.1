@@ -1,0 +1,12 @@
+{
+  "defaultTitle": "我的订单",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-jump-button": "/components/basic-component/app-jump-button/app-jump-button",
+    "app-load-text": "/components/basic-component/app-load-text/app-load-text",
+    "app-tab-nav": "/components/basic-component/app-tab-nav/app-tab-nav",
+    "app-order-goods-info": "/components/page-component/app-order-goods-info/app-order-goods-info",
+    "app-related-suggestion-product": "/components/page-component/app-related-suggestion-product/app-related-suggestion-product",
+    "app-no-goods": "/components/page-component/app-no-goods/app-no-goods"
+  }
+}

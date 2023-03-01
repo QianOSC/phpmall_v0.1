@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "商品批发",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "u-ordinary-list": "/components/page-component/u-goods-list/u-ordinary-list",
+    "app-no-goods": "/components/page-component/app-no-goods/app-no-goods"
+  }
+}

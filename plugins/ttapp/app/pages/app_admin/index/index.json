@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "u-count-to": "/components/basic-component/u-count-to/u-count-to"
+  }
+}

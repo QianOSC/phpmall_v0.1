@@ -1,0 +1,1 @@
+<image hidden="{{!(is_loading)}}" class="{{[sign!=='gift'?getTheme+'-m-back '+getTheme:theme+'-background']}}" style="{{'width:'+(imageWidth)+';'+('height:'+(imageHeight)+';')}}" src="{{src}}" data-event-opts="{{[['load',[['imgLoad',['$event']]]]]}}" bindload="__e"></image>

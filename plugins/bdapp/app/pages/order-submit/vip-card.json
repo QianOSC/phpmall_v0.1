@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "结算",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-css-icon": "/components/basic-component/app-css-icon/app-css-icon",
+    "app-dialog": "/pages/order-submit/app-dialog",
+    "app-check-box": "/components/basic-component/app-check-box/app-check-box"
+  }
+}

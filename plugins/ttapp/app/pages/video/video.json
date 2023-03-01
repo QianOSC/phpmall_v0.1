@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-video": "/components/page-component/app-video/app-video"
+  }
+}

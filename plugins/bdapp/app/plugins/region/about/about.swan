@@ -1,0 +1,1 @@
+<app-layout vue-id="1" class="data-v-63956e56" vue-slots="{{['default']}}"><view class="about data-v-63956e56"><view class="data-v-63956e56"><text space="nbsp" class="data-v-63956e56">{{about}}</text></view></view></app-layout>

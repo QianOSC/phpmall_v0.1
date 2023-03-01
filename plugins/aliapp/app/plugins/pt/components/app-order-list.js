@@ -1,0 +1,10 @@
+;my.defineComponent || (my.defineComponent = Component);(my["webpackJsonp"]=my["webpackJsonp"]||[]).push([["plugins/pt/components/app-order-list"],{"61a1":function(t,n,e){"use strict";var r=e("77c0"),i=e.n(r);i.a},"77c0":function(t,n,e){},"7e20":function(t,n,e){"use strict";e.r(n);var r=e("c1ff"),i=e("88d8");for(var c in i)"default"!==c&&function(t){e.d(n,t,function(){return i[t]})}(c);e("61a1");var a=e("2877"),u=Object(a["a"])(i["default"],r["a"],r["b"],!1,null,"8de34932",null);n["default"]=u.exports},"88d8":function(t,n,e){"use strict";e.r(n);var r=e("990d"),i=e.n(r);for(var c in r)"default"!==c&&function(t){e.d(n,t,function(){return r[t]})}(c);n["default"]=i.a},"990d":function(t,n,e){"use strict";(function(t){Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var r=function(){return e.e("plugins/pt/components/app-order-time").then(e.bind(null,"1960"))},i={name:"app-order-list",props:{list:{type:Array,default:function(){return[]}},theme:String},methods:{goPay:function(n,e){var r=this;t.showModal({title:"提示",content:"订单支付",cancelText:"取消",confirmText:"确定",success:function(t){t.confirm&&r.$request({url:r.$api.order.list_pay_data,data:{id:n}}).then(function(t){0===t.code&&r.$payment.pay(t.data.id).then(function(){for(var t=0;t<r.list.length;t++)r.list[t].id===e&&r.$emit("click",t)}).catch(function(){})})}})}},components:{"app-order-time":r}};n.default=i}).call(this,e("c11b")["default"])},c1ff:function(t,n,e){"use strict";var r=function(){var t=this,n=t.$createElement;t._self._c},i=[];e.d(n,"a",function(){return r}),e.d(n,"b",function(){return i})}}]);
+;(my["webpackJsonp"] = my["webpackJsonp"] || []).push([
+    'plugins/pt/components/app-order-list-create-component',
+    {
+        'plugins/pt/components/app-order-list-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('c11b')['createComponent'](__webpack_require__("7e20"))
+        })
+    },
+    [['plugins/pt/components/app-order-list-create-component']]
+]);                

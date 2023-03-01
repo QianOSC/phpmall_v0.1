@@ -1,0 +1,10 @@
+;my.defineComponent || (my.defineComponent = Component);(my["webpackJsonp"]=my["webpackJsonp"]||[]).push([["components/page-component/app-diy-form/app-diy-form-checkbox-group"],{"274d":function(t,e,n){"use strict";n.r(e);var a=n("3d78"),u=n("85e5");for(var i in u)"default"!==i&&function(t){n.d(e,t,function(){return u[t]})}(i);n("549c");var r=n("2877"),o=Object(r["a"])(u["default"],a["a"],a["b"],!1,null,"9ae9682e",null);e["default"]=o.exports},"339d":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var a={name:"app-diy-form-checkbox-group",props:{sign:{default:null},value:{type:Array,default:[]},list:{type:Array,default:[]},color:{default:"#ff4544"}},data:function(){var t=this.list;for(var e in t){var n=!1;for(var a in this.value)if(t[e].label===this.value[a]){n=!0;break}n&&(t[e].value=!0)}return{model:t}},methods:{handleClick:function(t){this.model[t].value=!this.model[t].value,this.outputData()},outputData:function(){var t=[];for(var e in this.model)!0===this.model[e].value&&t.push(this.model[e].label);this.$emit("change",t,this.sign),this.$emit("input",t,this.sign)}}};e.default=a},"3d78":function(t,e,n){"use strict";var a=function(){var t=this,e=t.$createElement;t._self._c},u=[];n.d(e,"a",function(){return a}),n.d(e,"b",function(){return u})},"549c":function(t,e,n){"use strict";var a=n("bb4b"),u=n.n(a);u.a},"85e5":function(t,e,n){"use strict";n.r(e);var a=n("339d"),u=n.n(a);for(var i in a)"default"!==i&&function(t){n.d(e,t,function(){return a[t]})}(i);e["default"]=u.a},bb4b:function(t,e,n){}}]);
+;(my["webpackJsonp"] = my["webpackJsonp"] || []).push([
+    'components/page-component/app-diy-form/app-diy-form-checkbox-group-create-component',
+    {
+        'components/page-component/app-diy-form/app-diy-form-checkbox-group-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('c11b')['createComponent'](__webpack_require__("274d"))
+        })
+    },
+    [['components/page-component/app-diy-form/app-diy-form-checkbox-group-create-component']]
+]);                

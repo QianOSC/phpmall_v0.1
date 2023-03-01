@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "u-ordinary-list": "/components/page-component/u-goods-list/u-ordinary-list"
+  },
+  "component": true
+}

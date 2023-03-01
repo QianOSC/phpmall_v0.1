@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-jump-button": "/components/basic-component/app-jump-button/app-jump-button",
+    "app-image": "/components/basic-component/app-image/app-image",
+    "app-order-goods-info": "/components/page-component/app-order-goods-info/app-order-goods-info",
+    "app-order-express": "/components/page-component/app-order-express/app-order-express",
+    "app-order-banner": "/components/page-component/app-order-banner/app-order-banner"
+  }
+}

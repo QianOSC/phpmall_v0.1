@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "搜索",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-composition": "/components/basic-component/app-composition/app-composition"
+  }
+}

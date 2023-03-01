@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "卡券详情",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-card-detail": "/pages/card/components/app-card-detail"
+  }
+}

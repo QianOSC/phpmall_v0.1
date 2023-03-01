@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "规格值编辑",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

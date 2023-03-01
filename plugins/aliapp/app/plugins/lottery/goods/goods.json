@@ -1,0 +1,13 @@
+{
+  "defaultTitle": "商品详情",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-quick-navigation": "/components/page-component/app-quick-navigation/app-quick-navigation",
+    "app-rich-text": "/components/basic-component/app-rich/parse",
+    "app-goods-banner": "/components/page-component/goods/app-goods-banner",
+    "app-share-qr-code": "/components/page-component/app-share-qr-code-poster/app-share-qr-code-poster",
+    "app-goods-marketing": "/components/page-component/goods/app-goods-marketing",
+    "u-mask": "/components/basic-component/u-mask/u-mask",
+    "app-close": "/components/basic-component/app-close/app-close"
+  }
+}

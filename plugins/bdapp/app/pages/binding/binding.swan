@@ -1,0 +1,1 @@
+<app-layout vue-id="1" vue-slots="{{['default']}}"><app-phone-binding vue-id="{{('2')+','+('1')}}" bind="{{bind}}" phone="{{phone}}" data-event-opts="{{[['^click',[['bindPhone']]]]}}" bind:click="__e"></app-phone-binding></app-layout>

@@ -1,0 +1,1 @@
+<app-layout vue-id="1" onVueInit="__l"><view><app-card-detail vue-id="{{('2')+','+('1')}}" list="{{list}}" onVueInit="__l"></app-card-detail></view></app-layout>

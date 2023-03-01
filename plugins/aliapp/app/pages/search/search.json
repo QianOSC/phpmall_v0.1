@@ -1,0 +1,8 @@
+{
+  "defaultTitle": "搜索页",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "u-ordinary-list": "/components/page-component/u-goods-list/u-ordinary-list",
+    "u-attr": "/components/page-component/app-attr/app-attr"
+  }
+}

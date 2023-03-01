@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "提现申请",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-button": "/components/basic-component/app-button/app-button",
+    "app-cash-model": "/components/page-component/app-cash-model/app-cash-model"
+  }
+}

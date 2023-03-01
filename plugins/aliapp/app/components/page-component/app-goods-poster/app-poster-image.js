@@ -1,0 +1,10 @@
+;my.defineComponent || (my.defineComponent = Component);(my["webpackJsonp"]=my["webpackJsonp"]||[]).push([["components/page-component/app-goods-poster/app-poster-image"],{"1e06":function(t,e,n){"use strict";var o=function(){var t=this,e=t.$createElement,n=(t._self._c,t.__map(t.info.extra_multiMap,function(e,n){var o=t.__get_style([t.pluginIconStyle(e)]),r=t.__get_style([t.pluginTextStyle(e)]);return{$orig:t.__get_orig(e),s0:o,s1:r}}));t.$mp.data=Object.assign({},{$root:{l0:n}})},r=[];n.d(e,"a",function(){return o}),n.d(e,"b",function(){return r})},"446e":function(t,e,n){"use strict";n.r(e);var o=n("1e06"),r=n("fb95");for(var a in r)"default"!==a&&function(t){n.d(e,t,function(){return r[t]})}(a);n("92b59");var u=n("2877"),i=Object(u["a"])(r["default"],o["a"],o["b"],!1,null,"6301daba",null);e["default"]=i.exports},6342:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var o={name:"app-poster-image",props:{info:Object,form:Object},computed:{pluginTextStyle:function(){var t=this;return function(e){var n={};return void 0!==e.bottom&&2!=t.form.style&&(n={bottom:parseFloat(e.bottom)-43+"rpx"}),Object.assign({},e,n)}},pluginIconStyle:function(){var t=this;return function(e){var n={};return void 0!==e.bottom&&2!=t.form.style&&(n={bottom:parseFloat(e.bottom)-40+"rpx"}),Object.assign({},e,n)}}}};e.default=o},"92b59":function(t,e,n){"use strict";var o=n("e96d"),r=n.n(o);r.a},e96d:function(t,e,n){},fb95:function(t,e,n){"use strict";n.r(e);var o=n("6342"),r=n.n(o);for(var a in o)"default"!==a&&function(t){n.d(e,t,function(){return o[t]})}(a);e["default"]=r.a}}]);
+;(my["webpackJsonp"] = my["webpackJsonp"] || []).push([
+    'components/page-component/app-goods-poster/app-poster-image-create-component',
+    {
+        'components/page-component/app-goods-poster/app-poster-image-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('c11b')['createComponent'](__webpack_require__("446e"))
+        })
+    },
+    [['components/page-component/app-goods-poster/app-poster-image-create-component']]
+]);                

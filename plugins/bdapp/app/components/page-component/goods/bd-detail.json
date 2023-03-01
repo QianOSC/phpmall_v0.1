@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "app-rich-text": "/components/basic-component/app-rich/parse"
+  },
+  "component": true
+}

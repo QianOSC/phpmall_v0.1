@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "订单搜索",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-iphone-x": "/components/basic-component/app-iphone-x/app-iphone-x"
+  }
+}

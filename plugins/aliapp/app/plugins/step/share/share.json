@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "分享海报",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

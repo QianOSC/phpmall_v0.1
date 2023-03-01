@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/page-component/goods/app-goods-marketing"],{1143:function(t,n,e){"use strict";e.r(n);var u=e("760d"),o=e("28bc");for(var r in o)"default"!==r&&function(t){e.d(n,t,function(){return o[t]})}(r);e("4304");var c=e("2877"),i=Object(c["a"])(o["default"],u["a"],u["b"],!1,null,"b239b48a",null);n["default"]=i.exports},"28bc":function(t,n,e){"use strict";e.r(n);var u=e("9d45c"),o=e.n(u);for(var r in u)"default"!==r&&function(t){e.d(n,t,function(){return u[t]})}(r);n["default"]=o.a},3376:function(t,n,e){},4304:function(t,n,e){"use strict";var u=e("3376"),o=e.n(u);o.a},"760d":function(t,n,e){"use strict";var u=function(){var t=this,n=t.$createElement;t._self._c},o=[];e.d(n,"a",function(){return u}),e.d(n,"b",function(){return o})},"9d45c":function(t,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var u=function(){return e.e("components/basic-component/app-model/app-model").then(e.bind(null,"cf2f"))},o={name:"app-goods-marketing",components:{"app-model":u},props:{limit:{type:String,default:function(){return""}},pickup:{type:String,default:function(){return""}},shipping:{type:String,default:function(){return""}},card:{type:Object,default:function(){return{}}},integral:{type:Object,default:function(){return{}}},balance:{type:Object,default:function(){return{}}},coupon:{type:Object,default:function(){return{}}},express:{type:String,default:function(){return""}},theme:String,sign:String},data:function(){return{shippingShow:!1,limitShow:!1,cardShow:!1,pickupShow:!1,couponShow:!1}},methods:{change:function(t){this[t]=!0}}};n.default=o}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/page-component/goods/app-goods-marketing-create-component',
+    {
+        'components/page-component/goods/app-goods-marketing-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('f266')['createComponent'](__webpack_require__("1143"))
+        })
+    },
+    [['components/page-component/goods/app-goods-marketing-create-component']]
+]);                

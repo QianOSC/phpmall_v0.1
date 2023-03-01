@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "设置时间段",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

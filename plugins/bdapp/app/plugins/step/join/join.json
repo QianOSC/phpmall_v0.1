@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "报名",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "提现申请",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-form-id": "/components/basic-component/app-form-id/app-form-id",
+    "u-mask": "/components/basic-component/u-mask/u-mask"
+  }
+}

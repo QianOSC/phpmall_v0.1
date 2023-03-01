@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "商家登录",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

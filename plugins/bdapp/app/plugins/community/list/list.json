@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "社区团购",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout",
+    "app-tab-nav": "/components/basic-component/app-tab-nav/app-tab-nav",
+    "app-menu": "/plugins/community/components/app-menu",
+    "app-share-qr-code": "/components/page-component/app-share-qr-code-poster/app-share-qr-code-poster"
+  }
+}

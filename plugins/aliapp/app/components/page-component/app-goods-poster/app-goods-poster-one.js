@@ -1,0 +1,10 @@
+;my.defineComponent || (my.defineComponent = Component);(my["webpackJsonp"]=my["webpackJsonp"]||[]).push([["components/page-component/app-goods-poster/app-goods-poster-one"],{"2c02":function(t,n,o){"use strict";var e=function(){var t=this,n=t.$createElement;t._self._c},r=[];o.d(n,"a",function(){return e}),o.d(n,"b",function(){return r})},"34b8":function(t,n,o){},"41fd":function(t,n,o){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var e=function(){return o.e("components/page-component/app-goods-poster/app-poster-image").then(o.bind(null,"446e"))},r=function(){return o.e("components/page-component/app-goods-poster/app-poster-price").then(o.bind(null,"b30d"))},c={name:"app-goods-poster-one",components:{appPosterImage:e,appPosterPrice:r},props:{multiple:Number,info:Object,form:Object},computed:{customize:function(){return this.info.customize_text?this.info.customize_text:"向您推荐一个好物"},background:function(){return 2===parseInt(this.form.type)?"linear-gradient(".concat(this.form.color,",").concat(this.$utils.colorRgba(this.form.color,.5),")"):this.form.color}}};n.default=c},"636c":function(t,n,o){"use strict";var e=o("34b8"),r=o.n(e);r.a},"66b3":function(t,n,o){"use strict";o.r(n);var e=o("41fd"),r=o.n(e);for(var c in e)"default"!==c&&function(t){o.d(n,t,function(){return e[t]})}(c);n["default"]=r.a},"6d74":function(t,n,o){"use strict";o.r(n);var e=o("2c02"),r=o("66b3");for(var c in r)"default"!==c&&function(t){o.d(n,t,function(){return r[t]})}(c);o("636c");var u=o("2877"),i=Object(u["a"])(r["default"],e["a"],e["b"],!1,null,"0cabf730",null);n["default"]=i.exports}}]);
+;(my["webpackJsonp"] = my["webpackJsonp"] || []).push([
+    'components/page-component/app-goods-poster/app-goods-poster-one-create-component',
+    {
+        'components/page-component/app-goods-poster/app-goods-poster-one-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('c11b')['createComponent'](__webpack_require__("6d74"))
+        })
+    },
+    [['components/page-component/app-goods-poster/app-goods-poster-one-create-component']]
+]);                

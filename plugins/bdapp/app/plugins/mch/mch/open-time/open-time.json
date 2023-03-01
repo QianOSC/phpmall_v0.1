@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "设置时间段",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/page-component/app-goods-poster/app-goods-poster-one"],{"0d00":function(t,o,n){"use strict";var e=function(){var t=this,o=t.$createElement;t._self._c},r=[];n.d(o,"a",function(){return e}),n.d(o,"b",function(){return r})},"34b8":function(t,o,n){},"41fd":function(t,o,n){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.default=void 0;var e=function(){return n.e("components/page-component/app-goods-poster/app-poster-image").then(n.bind(null,"446e"))},r=function(){return n.e("components/page-component/app-goods-poster/app-poster-price").then(n.bind(null,"b30d"))},c={name:"app-goods-poster-one",components:{appPosterImage:e,appPosterPrice:r},props:{multiple:Number,info:Object,form:Object},computed:{customize:function(){return this.info.customize_text?this.info.customize_text:"向您推荐一个好物"},background:function(){return 2===parseInt(this.form.type)?"linear-gradient(".concat(this.form.color,",").concat(this.$utils.colorRgba(this.form.color,.5),")"):this.form.color}}};o.default=c},"636c":function(t,o,n){"use strict";var e=n("34b8"),r=n.n(e);r.a},"66b3":function(t,o,n){"use strict";n.r(o);var e=n("41fd"),r=n.n(e);for(var c in e)"default"!==c&&function(t){n.d(o,t,function(){return e[t]})}(c);o["default"]=r.a},"6d74":function(t,o,n){"use strict";n.r(o);var e=n("0d00"),r=n("66b3");for(var c in r)"default"!==c&&function(t){n.d(o,t,function(){return r[t]})}(c);n("636c");var u=n("2877"),a=Object(u["a"])(r["default"],e["a"],e["b"],!1,null,"0cabf730",null);o["default"]=a.exports}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/page-component/app-goods-poster/app-goods-poster-one-create-component',
+    {
+        'components/page-component/app-goods-poster/app-goods-poster-one-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('f266')['createComponent'](__webpack_require__("6d74"))
+        })
+    },
+    [['components/page-component/app-goods-poster/app-goods-poster-one-create-component']]
+]);                

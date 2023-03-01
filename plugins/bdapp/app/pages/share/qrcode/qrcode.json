@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "推广二维码",
+  "component": true,
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}
